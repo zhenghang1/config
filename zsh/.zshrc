@@ -107,4 +107,4 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-source $ZSH_CUSTOM/plugins/incr/incr.zsh
+source $ZSH_CUSTOM/plugins/incrincr.plugin.zsh
